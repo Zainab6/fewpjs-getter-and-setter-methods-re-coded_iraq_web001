@@ -18,6 +18,7 @@ get circumference(){
 set diameter(newDiameter){
   this.radius = newDiameter / 2
 }
+this(diameter)"g"
 set area(newArea){
   this.radius = Math.sqrt(newArea/Math.PI)
 }
